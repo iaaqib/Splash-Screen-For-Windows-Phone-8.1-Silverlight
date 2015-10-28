@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="Splash_Screen.SplashScreen"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}" Height="499.298" Width="465.362">
+
+    <Grid x:Name="LayoutRoot" Background="{StaticResource PhoneChromeBrush}" Margin="0,0,-15,-307">
+        <TextBlock x:Name="textBlock" Margin="0,234,168,363" TextWrapping="Wrap" Text="Kode Snippets" HorizontalAlignment="Right" Width="127"/>
+
+    </Grid>
+</UserControl>

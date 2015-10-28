@@ -1,0 +1,35 @@
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\Bin\Debug\Splash Screen.dll
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\Bin\Debug\Splash Screen.pdb
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\Bin\Debug\resources.pri
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\Bin\Debug\AppxManifest.xml
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\Bin\Debug\Splash Screen.build.appxrecipe
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\Bin\Debug\AppManifest.xaml
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\Bin\Debug\Splash_Screen_Debug_AnyCPU.xap
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\App.g.cs
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\MainPage.g.cs
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\Splash Screen.g.resources
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\Splash_Screen.Resources.AppResources.resources
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\Splash Screen.csproj.GenerateResource.Cache
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\Splash Screen.dll
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\Splash Screen.pdb
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\priconfig.xml
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\priconfig.xml.intermediate
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\layout.resfiles
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\layout.resfiles.intermediate
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\resources.resfiles
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\resources.resfiles.intermediate
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\pri.resfiles
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\pri.resfiles.intermediate
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\qualifiers.txt
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\qualifiers.txt.intermediate
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\ProjectArchitectures.txt
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\MDILProjectFiles.xml
+c:\users\silen\documents\visual studio 2015\Projects\Splash Screen\Splash Screen\obj\Debug\XapCacheFile.xml
